@@ -1,0 +1,40 @@
+body {
+    font-family: "Malgun Gothic", "맑은 고딕", sans-serif;
+    background-color: #f9f9f9;
+    color: #333333;
+    text-align: center;
+}
+
+form {
+    width: 400px;
+    margin: 30px auto;
+    padding: 20px;
+    border: 2px solid #000000;
+    background-color: #ffffff;
+    text-align: left;
+}
+
+h1 {
+    font-size: 22px;
+}
+
+.signup-btn {
+    background-color: #64ff69;
+    color: #000000;
+    font-size: 10px;
+    height: 20px;
+    width: 80px;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+}
+.cancel-btn {
+    background-color: #ff746a;
+    color: #ffffff;
+    font-size: 10px;
+    height: 20px;
+    width: 80px;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+}
